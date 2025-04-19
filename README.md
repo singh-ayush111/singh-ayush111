@@ -17,12 +17,14 @@
 ## 🏆 Awards & Certifications  
 - Exceptional Research Award (Landfills, SDG‑12)  
 - Spirit of Innovation Award (CAUSE 2023)  
-- Udemy Web Dev Bootcamp · UNESCO‑SEEK · Udemy Python Data Structures and Algorithms
+- Udemy Web Dev Bootcamp
+- UNESCO‑SEEK for Empathy and Kindness
+- Udemy Python Data Structures and Algorithms
 - eLitmus pH Test — 79.42 percentile  
 
 ---
 
-## 🚀 What I Build  
+## 🚀 What I Build(Full Stack)
 - 🔍 **FMCG Recommender**: Hybrid content + collaborative filtering (TF‑IDF, cosine similarity, user ratings)  
 - 📤 **FileShare Platform**: Scalable MERN‑stack app for seamless document exchange  
 
@@ -35,7 +37,7 @@
 ---
 
 ## 🌱 Currently Learning  
-Next.js · TypeScript · React Native · Advanced AI/ML  
+React · BootStrap · Soft Skills · npm packages  
 
 ---
 
