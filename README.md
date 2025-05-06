@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** 🐍 Python · ⚛️ JavaScript  
+- **Languages:** 🐍 Python · ⚛️ JavaScript · 📤 Data Structures and Algorithm · 📦 SQL
 - **Frontend:** ⚛️ React.js · ⚙️ JavaScript · 🌐 HTML5 · 🎨 CSS3  
 - **Backend:** 🚀 Node.js · 🛡️ Express · 🐍 Flask  
 - **Databases:** 🐘 PostgreSQL · 📦 SQLite  
