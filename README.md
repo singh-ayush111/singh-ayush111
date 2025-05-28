@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayush Kumar Singh
 
-🎓 **Final‑year B.Tech CSE** @ CMR University (Class of 2025)  
+🎓 **I've done my B.Tech in CSE** @ CMR University (Class of 2025)  
 🌍 Based in Bengaluru, India | 💻 Passionate Full‑Stack Developer  
 
 ---
