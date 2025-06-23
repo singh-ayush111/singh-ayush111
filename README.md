@@ -9,12 +9,16 @@
 
 **Languages:**  
 🐍 Python · ⚛️ JavaScript · 📊 SQL · 📐 Data Structures and Algorithms
+
 **Frontend:**  
 ⚛️ React.js · 🌐 HTML5 · 🎨 CSS3 · 🧩 Bootstrap · 📝 Embedded JavaScript (EJS)
+
 **Backend:**  
 🚀 Node.js · 🛡️ Express.js · 🐍 Flask · 🔐 Authentication · 🔁 OAuth · 🌐 RESTful APIs
+
 **Databases:**  
 🐘 PostgreSQL · 🐬 MySQL · 🍃 MongoDB · 📦 SQLite
+
 **Tools & Platforms:**  
 🧰 Git · 🌐 GitHub · 🖥️ VS Code · 🎨 Canva
 
